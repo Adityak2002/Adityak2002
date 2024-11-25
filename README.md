@@ -6,14 +6,14 @@
 
 ## 🛠️ **Tech Stack**
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="50" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="50" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" width="50" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" width="50" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" width="50" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" width="50" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" width="50" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" title="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" title="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux" />
 </p>
 
 ---
@@ -42,9 +42,15 @@
 - Delivered AI-powered solutions for startups, including predictive modeling and web-based automation systems.  
 - Built dynamic dashboards and analytics tools for client projects, achieving >90% user satisfaction.
 
-### **Leadership & Publications**  
-- **AI/ML Head, GDSC VIT Pune (2023-24):**  
-  Led workshops, supervised ML hackathons, and mentored teams on real-world AI projects.  
+## 🌟 **Leadership & Publications**
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Google_Developers_Community_Programs_Logo.png/600px-Google_Developers_Community_Programs_Logo.png" width="60" alt="GDSC Logo" />
+</p>
+
+### **AI/ML Head, GDSC VIT Pune (2023-24)**  
+- Led workshops, supervised ML hackathons, and mentored teams on real-world AI projects.  
+
+### **Publications**  
 - *Published in Journal of Computational Analysis:*  
   - *Efficient Defense Against Adversarial Attacks*  
   - *English to Hindi Text Transliteration Using Deep Learning*
@@ -54,13 +60,16 @@
 ## 📫 **Connect With Me**
 <p align="center">
   <a href="https://github.com/Adityak2002">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />
   </a>
   <a href="https://linkedin.com/in/aditya-kulkarni-3a50a8214">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn" />
   </a>
   <a href="mailto:adityak2305@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" title="Email" />
+  </a>
+  <a href="https://twitter.com/your_handle">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" title="Twitter" />
   </a>
 </p>
 
