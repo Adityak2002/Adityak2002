@@ -43,10 +43,6 @@
 - Built dynamic dashboards and analytics tools for client projects, achieving >90% user satisfaction.
 
 ## 🌟 **Leadership & Publications**
-<p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQdLBUh1CxvlDXw3eQV-QOjCY9F6PX3Ye5vA&s" width="60" alt="GDSC Logo" />
-</p>
-
 ### **AI/ML Head, GDSC VIT Pune (2023-24)**  
 - Led workshops, supervised ML hackathons, and mentored teams on real-world AI projects.  
 
@@ -59,17 +55,18 @@
 
 ## 📫 **Connect With Me**
 <p align="center">
-  <a href="https://github.com/Adityak2002">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />
-  </a>
+ <a href="https://github.com/Adityak2002">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" title="GitHub" />
+</a>
+
   <a href="https://linkedin.com/in/aditya-kulkarni-3a50a8214">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn" />
   </a>
   <a href="mailto:adityak2305@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" title="Email" />
   </a>
-  <a href="https://twitter.com/your_handle">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" title="Twitter" />
+  <a href="https://www.instagram.com/adiii_314/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/instagram-original.svg" width="40" title="Twitter" />
   </a>
 </p>
 
