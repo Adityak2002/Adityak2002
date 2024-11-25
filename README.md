@@ -76,3 +76,20 @@
 🎶 Indian classical flautist with three Visharad exams completed  
 🏎️ Passionate about Formula One, badminton, and cricket  
 💡 Always learning and building impactful solutions!
+
+## 📊 **GitHub Stats**
+
+<p align="center">
+  <a href="https://github.com/Adityak2002">
+    <img src="https://github-readme-stats.vercel.app/api?username=Adityak2002&show_icons=true&theme=radical" alt="Aditya's GitHub stats" />
+  </a>
+  <br />
+  <a href="https://github.com/Adityak2002">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityak2002&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+  <br />
+  <a href="https://github.com/Adityak2002">
+    <img src="https://streak-stats.demolab.com/?user=Adityak2002&theme=radical" alt="GitHub Streak" />
+  </a>
+</p>
+
