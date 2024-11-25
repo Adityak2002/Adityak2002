@@ -83,7 +83,7 @@
   <a href="https://github.com/Adityak2002">
     <img src="https://github-readme-stats.vercel.app/api?username=Adityak2002&show_icons=true&theme=tokyonight" alt="Aditya's GitHub stats" />
   </a>
-  <br />
+
   <a href="https://github.com/Adityak2002">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityak2002&layout=compact&theme=dark" alt="Top Languages" />
   </a>
