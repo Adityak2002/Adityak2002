@@ -44,7 +44,7 @@
 
 ## 🌟 **Leadership & Publications**
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Google_Developers_Community_Programs_Logo.png/600px-Google_Developers_Community_Programs_Logo.png" width="60" alt="GDSC Logo" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQdLBUh1CxvlDXw3eQV-QOjCY9F6PX3Ye5vA&s" width="60" alt="GDSC Logo" />
 </p>
 
 ### **AI/ML Head, GDSC VIT Pune (2023-24)**  
