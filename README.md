@@ -66,7 +66,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" title="Email" />
   </a>
   <a href="https://www.instagram.com/adiii_314/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/instagram-original.svg" width="40" title="Twitter" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" title="Twitter" />
   </a>
 </p>
 
