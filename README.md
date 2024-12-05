@@ -27,7 +27,7 @@
   Developed a robust model to defend against adversarial attacks, reducing attack success rates by 85%.  
   *Tech Stack:* Python, TensorFlow, NumPy  
 
-- **[Image Retrieval with AWS]([https://github.com/Adityak2002](https://github.com/rohanlokhande2002/VisionVault.git))**  
+- **[Image Retrieval with AWS]((https://github.com/rohanlokhande2002/VisionVault.git))**  
   A Flask-based app leveraging AWS S3 and Rekognition to automate image sorting, improving efficiency by 80%.  
   *Tech Stack:* Flask, AWS S3, Boto3  
 
