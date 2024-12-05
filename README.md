@@ -90,6 +90,7 @@
   <br />
   <a href="https://github.com/Adityak2002">
     <img src="https://streak-stats.demolab.com/?user=Adityak2002&theme=merko" alt="GitHub Streak" />
-  </a>
+</a>
+
 </p>
 
